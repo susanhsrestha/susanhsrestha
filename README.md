@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Susan Shrestha</h1>
-<h3 align="left">A passionate learner enthusiast from Nepal</h3>
+<h3 align="left">A passionate learner from Nepal</h3>
 
 - 🌱 I’m currently learning **Flask, RestAPI, Database Design**
 
